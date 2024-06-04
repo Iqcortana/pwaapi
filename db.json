@@ -1,0 +1,24 @@
+{
+  "products": [
+  {"id":1,"title":"Cuis","category":"Violet"},
+  {"id":2,"title":"Jackrabbit, white-tailed","category":"Blue"},
+  {"id":3,"title":"Springbok","category":"Turquoise"},
+  {"id":4,"title":"Black swan","category":"Yellow"},
+  {"id":5,"title":"Cat, european wild","category":"Aquamarine"},
+  {"id":6,"title":"Cockatoo, red-breasted","category":"Pink"},
+  {"id":7,"title":"Sloth, two-toed tree","category":"Teal"},
+  {"id":8,"title":"Squirrel, pine","category":"Purple"},
+  {"id":9,"title":"Starfish, crown of thorns","category":"Fuscia"},
+  {"id":10,"title":"Flamingo, roseat","category":"Puce"},
+  {"id":11,"title":"Desert spiny lizard","category":"Turquoise"},
+  {"id":12,"title":"Coot, red-knobbed","category":"Indigo"},
+  {"id":13,"title":"Robin, kalahari scrub","category":"Pink"},
+  {"id":14,"title":"Ring dove","category":"Puce"},
+  {"id":15,"title":"Raccoon, common","category":"Mauv"},
+  {"id":16,"title":"White-winged tern","category":"Turquoise"},
+  {"id":17,"title":"Pied kingfisher","category":"Blue"},
+  {"id":18,"title":"Possum, western pygmy","category":"Mauv"},
+  {"id":19,"title":"Burchell's gonolek","category":"Turquoise"},
+  {"id":20,"title":"Giant anteater","category":"Turquoise"}
+  ]
+}
